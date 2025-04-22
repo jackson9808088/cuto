@@ -178,7 +178,7 @@
             {
                 question: "pi tơ của Huy đã đóng góp được gì trong lịch sử ?",
                 options: ["Là mái nhà chung của hàng triệu người ", "Chắn gió giúp xây dựng tòa nhà cao nhất thế giới", "Ngăn chiến tranh Mỹ , Pháp , Nga , Trung Quốc", "Ngăn chặn thiện thạch đâm vào trái đất"],
-                answer: "Là mái nhà chung của hàng triệu người"
+                answer: "Là mái nhà chung của hàng triệu người "
             },
             {
                 question: "kỉ lục của Huy là gì ?",
